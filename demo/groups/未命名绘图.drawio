@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1000" height="770" as="geometry" />
+          <mxGeometry x="40" y="40" width="1000" height="610" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1000" height="160" as="geometry" />
+          <mxGeometry x="40" y="40" width="1000" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-5" value="手机号/邮箱、密码登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="80" width="210" height="60" as="geometry" />
+          <mxGeometry x="150" y="50" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-6" value="手机号一键登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="80" width="210" height="60" as="geometry" />
+          <mxGeometry x="420" y="50" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-7" value="三方登录(qq、微信、微博)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="220" height="60" as="geometry" />
+          <mxGeometry x="690" y="50" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="484.69" y="-110.94" width="80.63" height="585.63" as="geometry" />
+          <mxGeometry x="480" y="-161" width="80.63" height="585.63" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-12" target="lfPdQ3ZHWV3x0kOP0yHL-13">
           <mxGeometry relative="1" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-12" value="用户登录接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="220" width="310" height="60" as="geometry" />
+          <mxGeometry x="365.32" y="170" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-13" target="lfPdQ3ZHWV3x0kOP0yHL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-13" value="扬帆用户登录接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="330" width="190" height="40" as="geometry" />
+          <mxGeometry x="240" y="260" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-14" target="lfPdQ3ZHWV3x0kOP0yHL-27">
           <mxGeometry relative="1" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-14" value="扬州发布用户登录接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="330" width="180" height="40" as="geometry" />
+          <mxGeometry x="610" y="260" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-20" value="用户存在（登录成功）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="425" width="140" height="40" as="geometry" />
+          <mxGeometry x="150" y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-21" target="lfPdQ3ZHWV3x0kOP0yHL-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-21" value="用户不存在" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="425" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-13" target="lfPdQ3ZHWV3x0kOP0yHL-21">
           <mxGeometry relative="1" as="geometry" />
@@ -62,43 +62,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-27" value="用户存在（登录成功）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="425" width="140" height="40" as="geometry" />
+          <mxGeometry x="540" y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-28" target="lfPdQ3ZHWV3x0kOP0yHL-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-28" value="用户不存在" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="425" width="120" height="40" as="geometry" />
+          <mxGeometry x="745" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-32" target="lfPdQ3ZHWV3x0kOP0yHL-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-32" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="580" width="120" height="50" as="geometry" />
+          <mxGeometry x="360" y="440" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-33" target="lfPdQ3ZHWV3x0kOP0yHL-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-33" value="用户数据同步" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537.66" y="580" width="144.68" height="50" as="geometry" />
+          <mxGeometry x="537.66" y="440" width="144.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="680" width="1000" height="130" as="geometry" />
+          <mxGeometry x="40" y="545" width="1000" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-40" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="350" y="690" width="60" height="80" as="geometry" />
+        <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-40" value="扬帆后台" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-41" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="530" y="690" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-42" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="720" y="690" width="60" height="80" as="geometry" />
+        <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-42" value="用户中心" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="560" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfPdQ3ZHWV3x0kOP0yHL-43" target="lfPdQ3ZHWV3x0kOP0yHL-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lfPdQ3ZHWV3x0kOP0yHL-43" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="580" width="130" height="50" as="geometry" />
+          <mxGeometry x="740" y="440" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
